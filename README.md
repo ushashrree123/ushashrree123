@@ -1,4 +1,4 @@
-👋 Hi there! I'm [Your Name], a tech enthusiast with a Master's in Information Technology and Science, specializing in Information Technology Management, and a Bachelor's in Computer Science and Engineering.
+👋 Hi there! I'm Sai Usha Shrree, a tech enthusiast with a Master's in Information Technology and Science, specializing in Information Technology Management, and a Bachelor's in Computer Science and Engineering.
 
 🎓 Education:
 - 🎓 Master's in Information Technology (Specialization: Information Technology Management).
@@ -23,7 +23,7 @@
 📫 Let's Connect:
 - 📧 Email: ushashrree@gmail.com
 - 🔗 LinkedIn: linkedin.com/in/yourlinkedin
-- 🐦 Twitter: twitter.com/yourtwitter
+
 
 🤝 Open to connecting with like-minded professionals, discussing tech and management innovations, and exploring collaborative opportunities. Let's shape the future of IT together! 💻✨
 
