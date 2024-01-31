@@ -27,3 +27,6 @@
 
 🤝 Open to connecting with like-minded professionals, discussing tech and management innovations, and exploring collaborative opportunities. Let's shape the future of IT together! 💻✨
 
+
+
+
